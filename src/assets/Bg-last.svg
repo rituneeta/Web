@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2093.25" height="1209.469" viewBox="0 0 2093.25 1209.469">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-2 {
+        fill: #062c51;
+      }
+
+      .cls-3 {
+        fill: #1e84ed;
+      }
+    </style>
+    <clipPath id="clip-path"/>
+  </defs>
+  <g id="Bg" transform="translate(2234.25 599.234) rotate(180)">
+    <g id="Bg-2" data-name="Bg" class="cls-1">
+      <circle id="Oval" class="cls-2" cx="74" cy="74" r="74" transform="translate(788 -123)"/>
+      <rect id="shape" class="cls-3" width="485" height="1213" rx="242.5" transform="matrix(0.719, 0.695, -0.695, 0.719, 1885.37, -610.234)"/>
+      <circle id="Oval-2" data-name="Oval" class="cls-3" cx="30" cy="30" r="30" transform="translate(286 91)"/>
+      <circle id="Oval-3" data-name="Oval" class="cls-2" cx="10" cy="10" r="10" transform="translate(373 81)"/>
+      <circle id="Oval-4" data-name="Oval" class="cls-2" cx="50.5" cy="50.5" r="50.5" transform="translate(141 399)"/>
+    </g>
+  </g>
+</svg>

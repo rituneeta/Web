@@ -1,0 +1,75 @@
+<svg id="Call_to_action" data-name="Call to action" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="170" viewBox="0 0 1920 170">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.1;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3, .cls-5 {
+        fill: #062c51;
+      }
+
+      .cls-4 {
+        fill: #1e84ed;
+      }
+
+      .cls-5 {
+        font-size: 24px;
+        font-family: Poppins-SemiBold, Poppins;
+        font-weight: 600;
+      }
+
+      .cls-6, .cls-9 {
+        fill: none;
+      }
+
+      .cls-6 {
+        stroke: #6852ed;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-7 {
+        fill: #6852ed;
+        font-size: 14px;
+        font-family: Poppins-Regular, Poppins;
+        letter-spacing: 0.031em;
+      }
+
+      .cls-8 {
+        stroke: none;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6852ed"/>
+      <stop offset="1" stop-color="#ba43fc"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Bg" class="cls-1" width="1920" height="170"/>
+    </clipPath>
+  </defs>
+  <g id="Bg-2" data-name="Bg">
+    <rect id="Bg-3" data-name="Bg" class="cls-1" width="1920" height="170"/>
+    <g id="Bg-4" data-name="Bg" class="cls-2">
+      <rect id="Rectangle" class="cls-3" width="204" height="487" rx="102" transform="matrix(0.602, 0.799, -0.799, 0.602, 213.083, 64.497)"/>
+      <circle id="Oval" class="cls-3" cx="55.5" cy="55.5" r="55.5" transform="translate(1768 85)"/>
+      <circle id="Oval-2" data-name="Oval" class="cls-4" cx="25" cy="25" r="25" transform="translate(1657 14)"/>
+    </g>
+  </g>
+  <g id="Txt" transform="translate(390 64)">
+    <text id="Build_your_successfu" data-name="Build your successfu" class="cls-5" transform="translate(265 31)"><tspan x="0" y="0">Make work more fun together with Grafitti!</tspan></text>
+  </g>
+  <g id="Button" transform="translate(1406 60)">
+    <g id="Button_Normal_Stoke_Default" data-name="Button/Normal/Stoke/Default" transform="translate(0 5)">
+      <g id="Bg-5" data-name="Bg" class="cls-6">
+        <rect class="cls-8" width="124" height="40" rx="20"/>
+        <rect class="cls-9" x="0.5" y="0.5" width="123" height="39" rx="19.5"/>
+      </g>
+      <text id="Button-2" data-name="Button" class="cls-7" transform="translate(0 10)"><tspan x="21.587" y="15">Contact us</tspan></text>
+    </g>
+  </g>
+</svg>
