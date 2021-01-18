@@ -37,7 +37,7 @@ function main(props) {
       <section className="section-how">
         <div className="how">
           <p className="how--play">
-            <img src={triangleRight} className="how--play--img" />
+            <img src={triangleRight} alt="" className="how--play--img" />
           </p>
           <p className="how--text1">How it works</p>
           <p className="how--text2">

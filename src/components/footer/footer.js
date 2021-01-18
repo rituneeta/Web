@@ -9,7 +9,7 @@ function footer() {
         <div className="base__contact">
           <p className="base__contact--head">Contacts</p>
           <div className="base__contact--div1">
-            <img src={boxWhite} className="base__contact--div1--icon" />
+            <img src={boxWhite} alt="" className="base__contact--div1--icon" />
 
             <div className="base__contact--div1--num">
               <p className="base__contact--div1--num--1">Have questions?</p>
@@ -51,7 +51,11 @@ function footer() {
               placeholder="Enter your email"
               className="base__contact--input--field"
             />
-            <img src={boxDarkPurple} className="base__contact--input--icon" />
+            <img
+              src={boxDarkPurple}
+              alt=""
+              className="base__contact--input--icon"
+            />
           </div>
           <div className="base__contact--sub">
             <p className="base__contact--sub--text">

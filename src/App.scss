@@ -149,14 +149,14 @@ body{
             height: 8rem;
             width: 8rem;
             border-radius: 50%;
-            font-size: 5.5rem;
+            font-size: 4rem;
             padding: .5rem;
             outline: none;
             
            font-weight : 200;
 
             &--icon{
-
+               
             }
         }
         
@@ -471,6 +471,7 @@ body{
             color: #062C51;
             font-weight: 700;
             margin-top: .5rem;
+            margin-left: 2rem;
         }
     }
 }
@@ -653,7 +654,7 @@ body{
     padding: 30rem 20%;
     background-image: url(./assets/Bg.png);
     background-size:cover;
-    background-position: bottom -180px right 170px;
+    background-position: bottom -180px right 140px;
     background-repeat: no-repeat;
     .base{
         display: flex;
@@ -703,16 +704,18 @@ body{
                 &--text1{
                     margin-bottom: 1rem;
                     font-size: 1.2rem;
+                   
                 }
             }
             &--text{
-                width: 110%;
+                width: 130%;
                 display: flex;
                 font-size: 1.3rem;
                 color: #716C80;
                 &--1{
-                    width: 50%;
-                    margin-bottom: .5rem;
+                    width: 100%;
+                    margin-bottom: 1rem;
+                    
                 }
             }
             &--input{

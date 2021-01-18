@@ -9,7 +9,7 @@ function User(props) {
       <div class="left">
         <div class="test">
           <div class="left__icon">
-            <img src={logo} class="left__icon--img" />
+            <img src={logo} alt="" class="left__icon--img" />
           </div>
           <div class="left__text">
             <p class="left__text--para">
@@ -83,7 +83,7 @@ function User(props) {
 
           <div class="form__term">
             <input type="checkbox" class="form__term--check" />
-            {props.name == "signUp" ? (
+            {props.name === "signUp" ? (
               <p class="form__term--text">
                 Creating an account means you’re okay with our{" "}
                 <span> Terms of Service, Privacy Policy,</span> and our default{" "}
