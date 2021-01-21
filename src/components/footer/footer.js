@@ -1,6 +1,7 @@
 import React from "react";
 import boxWhite from "../../img/box-white.svg";
 import boxDarkPurple from "../../img/box-dark-purple.svg";
+import "./footer.scss";
 
 function footer() {
   return (

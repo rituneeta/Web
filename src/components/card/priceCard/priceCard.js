@@ -1,4 +1,5 @@
 import React from "react";
+import "./priceCard.scss";
 import boxPurple from "../../../img/box-purple.svg";
 import boxPink from "../../../img/box-pink.svg";
 

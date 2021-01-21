@@ -1,4 +1,5 @@
 import React from "react";
+import "./navigation.scss";
 import logo from "../../img/logo.png";
 import { Link, useHistory } from "react-router-dom";
 

@@ -1,0 +1,80 @@
+
+.boxPrice{
+  width: 32%;
+  background-color: #fff;
+  padding: 4rem 4.5rem;
+  border-radius: 5px;
+  box-shadow: .5rem .5rem 2rem rgb(223, 223, 223);
+  transition: all .3s;
+  &__basic{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    &--1{
+      font-size: 1.4rem;
+      color: #062C51;
+      font-weight: 700;
+    }
+    &--btn{
+      background-color: #E1E4ED99;
+      color: #EF7171;
+      text-transform: uppercase;
+      font-size: 1rem;
+      font-weight: 700;
+      border-radius: 100px;
+      border: none;
+      cursor: pointer;
+      padding: .7rem 1rem;
+    }
+  }
+  &__line{
+    margin-top:1rem ;
+    background-color: #BA43FC;
+    width: 3rem;
+    height: 1px;
+  }
+  &__price{
+    margin: 2.5rem 0;
+    &--1{
+      font-size: 2.6rem;
+      font-weight: 900;
+    }
+    &--2{
+      font-size: 1.2rem;
+      margin-top: .7rem;
+    }
+  }
+  &__menu{
+    margin: 4.5rem 0;
+    &--text{
+      display: flex;
+      align-items: center;
+      margin-top: .5rem;
+      //height: 4rem;
+      &--1{
+
+        &--icon{
+          margin-top: -1.2rem;
+          height: 1.2rem;
+          width: 1rem;
+        }
+      }
+      &--2{
+        font-size: 1.2rem;
+        margin-left: 1.3rem;
+        color: #716C80;
+        margin-bottom: 1rem;
+      }
+      &--opac{
+        opacity: 80%;
+      }
+    }
+
+  }
+
+}
+.boxPrice:hover{
+  box-shadow: .5rem 1rem 2rem grey;
+  transform: translateY(-2rem);
+}

@@ -1,4 +1,5 @@
-import React from "react";
+import React from "react"
+import "./questContent.scss";
 import boxPurple from "../../../img/box-purple.svg";
 import boxDarkPurple from "../../../img/box-dark-purple.svg";
 function questContent(props) {

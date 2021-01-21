@@ -6,6 +6,7 @@ import imgFollow from "../../img/img-follow.svg";
 import SocialCard from "../card/socialCard/socialCard";
 import PriceCard from "../card/priceCard/priceCard";
 import QuesContent from "../content/questContent/questContent";
+import "./main.scss";
 
 function main(props) {
   return (
@@ -98,7 +99,7 @@ function main(props) {
         <PriceCard card="third" name="Advance" price={42} />
       </section>
 
-      <section className="section-question sec-margin">
+      <section className="section-question">
         <QuesContent
           name="View common questions"
           ques="From signup till prices every queries, answered at one place."

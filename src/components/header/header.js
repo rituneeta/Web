@@ -1,4 +1,5 @@
 import React from "react";
+import "./header.scss";
 import connect from "../../img/connect.svg";
 
 function header() {

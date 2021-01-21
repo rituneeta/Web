@@ -1,0 +1,37 @@
+
+.ques{
+  width: 50%;
+  display: flex;
+  align-items: flex-start;
+  &__icon{
+
+  }
+  &__text{
+    margin-left: 2.5rem;
+    &--head{
+      font-size: 1.4rem;
+      color: #062C51;
+      font-weight: 600;
+    }
+    &--para{
+      font-size: 1.2rem;
+      color: #716C80;
+      margin-top: 1rem;
+    }
+    &--read{
+      display: flex;
+      margin-top: 2rem;
+
+      &--text{
+        font-size: 1.2rem;
+        color: #554D89;
+        font-weight: 500;
+      }
+      &--icon{
+        margin-left: 1rem;
+        margin-top: 1rem;
+
+      }
+    }
+  }
+}
